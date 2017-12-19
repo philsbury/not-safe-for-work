@@ -18,7 +18,7 @@
  * @since      1.0.0
  * @package    Nsfw
  * @subpackage Nsfw/includes
- * @author     Phil Baker <phil@philsbury.co.uk>
+ * @author     Phil Baker
  */
 class Nsfw_Activator {
 

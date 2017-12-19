@@ -18,7 +18,7 @@
  *
  * @package    Nsfw
  * @subpackage Nsfw/admin
- * @author     Phil Baker <phil@philsbury.co.uk>
+ * @author     Phil Baker
  */
 class Nsfw_Admin {
 

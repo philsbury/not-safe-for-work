@@ -1,6 +1,5 @@
 === Plugin Name ===
 Contributors: philsbury
-Donate link: https://philsbury.uk
 Tags: NSFW, Not safe for work
 Requires at least: 4.9
 Tested up to: 4.9.1

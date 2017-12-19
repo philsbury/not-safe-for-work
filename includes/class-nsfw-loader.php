@@ -19,7 +19,7 @@
  *
  * @package    Nsfw
  * @subpackage Nsfw/includes
- * @author     Phil Baker <phil@philsbury.co.uk>
+ * @author     Phil Baker
  */
 class Nsfw_Loader {
 
