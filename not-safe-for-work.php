@@ -9,19 +9,19 @@
  * that starts the plugin.
  *
  * @link              https://philsbury.uk
- * @since             1.0.0
+ * @since             0.1.0
  * @package           Nsfw
  *
  * @wordpress-plugin
- * Plugin Name:       NSFW
+ * Plugin Name:       Not Safe For Work
  * Description:       Add NSFW checkbox flags to posts and attachments.
- * Version:           0.1.0
+ * Version:           0.1.1
  * Author:            Phil Baker
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- * Text Domain:       nsfw
+ * Text Domain:       not-safe-for-work
  * Domain Path:       /languages
- * GitHub Plugin URI: philsbury/nsfw
+ * GitHub Plugin URI: philsbury/not-safe-for-work
  */
 
 // If this file is called directly, abort.
@@ -34,7 +34,7 @@ if ( ! defined( 'WPINC' ) ) {
  * Start at version 0.1.0 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
-define( 'NSFW_VERSION', '0.1.0' );
+define( 'NSFW_VERSION', '0.1.1' );
 
 /**
  * The code that runs during plugin activation.
@@ -70,7 +70,7 @@ require plugin_dir_path( __FILE__ ) . 'includes/class-nsfw.php';
  * then kicking off the plugin from this point in the file does
  * not affect the page life cycle.
  *
- * @since    1.0.0
+ * @since    0.1.0
  */
 function run_nsfw() {
 

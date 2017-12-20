@@ -7,7 +7,7 @@
  * so that it is ready for translation.
  *
  * @link       https://philsbury.uk
- * @since      1.0.0
+ * @since      0.1.0
  *
  * @package    Nsfw
  * @subpackage Nsfw/includes
@@ -19,7 +19,7 @@
  * Loads and defines the internationalization files for this plugin
  * so that it is ready for translation.
  *
- * @since      1.0.0
+ * @since      0.1.0
  * @package    Nsfw
  * @subpackage Nsfw/includes
  * @author     Phil Baker
@@ -30,7 +30,7 @@ class Nsfw_i18n {
 	/**
 	 * Load the plugin text domain for translation.
 	 *
-	 * @since    1.0.0
+	 * @since    0.1.0
 	 */
 	public function load_plugin_textdomain() {
 

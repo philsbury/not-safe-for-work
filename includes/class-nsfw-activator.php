@@ -4,7 +4,7 @@
  * Fired during plugin activation
  *
  * @link       https://philsbury.uk
- * @since      1.0.0
+ * @since      0.1.0
  *
  * @package    Nsfw
  * @subpackage Nsfw/includes
@@ -15,7 +15,7 @@
  *
  * This class defines all code necessary to run during the plugin's activation.
  *
- * @since      1.0.0
+ * @since      0.1.0
  * @package    Nsfw
  * @subpackage Nsfw/includes
  * @author     Phil Baker
@@ -27,7 +27,7 @@ class Nsfw_Activator {
 	 *
 	 * Long Description.
 	 *
-	 * @since    1.0.0
+	 * @since    0.1.0
 	 */
 	public static function activate() {
 
